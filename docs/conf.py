@@ -130,7 +130,7 @@ html_favicon = 'favicon.ico'
 html_static_path = ['_static']
 
 html_css_files = [
-    'css/custom.css',
+    'css/custom.css'
 ]
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
