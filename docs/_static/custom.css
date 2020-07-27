@@ -18,3 +18,14 @@
     margin: auto;
     float: left;
 }
+.wy-nav-top {
+    display: none;
+    background: #041742 !important;
+    color: #fff;
+    padding: .4045em .809em;
+    position: relative;
+    line-height: 50px;
+    text-align: center;
+    font-size: 100%;
+    *zoom: 1;
+}
