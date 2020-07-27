@@ -4,7 +4,7 @@
     padding: .809em;
     margin-bottom: .809em;
     z-index: 200;
-    background-color: #298;
+    background-color: #298 !important;
     text-align: center;
     padding: .809em;
     display: block;
